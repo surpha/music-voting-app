@@ -1,1 +1,1 @@
-"Music Voting app" 
+The new way to play music in a group.
